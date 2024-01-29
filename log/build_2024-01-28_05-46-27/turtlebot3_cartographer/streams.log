@@ -1,0 +1,46 @@
+[0.300s] Invoking command in '/home/smartlab/tb3/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake /home/smartlab/tb3/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/smartlab/tb3/install/turtlebot3_cartographer
+[0.871s] -- The C compiler identification is GNU 11.4.0
+[0.871s] -- The CXX compiler identification is GNU 11.4.0
+[0.871s] -- Detecting C compiler ABI info
+[0.871s] -- Detecting C compiler ABI info - done
+[0.871s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.871s] -- Detecting C compile features
+[0.871s] -- Detecting C compile features - done
+[0.871s] -- Detecting CXX compiler ABI info
+[0.871s] -- Detecting CXX compiler ABI info - done
+[0.871s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.871s] -- Detecting CXX compile features
+[0.871s] -- Detecting CXX compile features - done
+[0.872s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.945s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.424s] -- Configuring done
+[1.426s] -- Generating done
+[1.426s] -- Build files have been written to: /home/smartlab/tb3/build/turtlebot3_cartographer
+[1.429s] Invoked command in '/home/smartlab/tb3/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake /home/smartlab/tb3/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/smartlab/tb3/install/turtlebot3_cartographer
+[1.430s] Invoking command in '/home/smartlab/tb3/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --build /home/smartlab/tb3/build/turtlebot3_cartographer -- -j16 -l16
+[1.452s] Invoked command in '/home/smartlab/tb3/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --build /home/smartlab/tb3/build/turtlebot3_cartographer -- -j16 -l16
+[1.470s] Invoking command in '/home/smartlab/tb3/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --install /home/smartlab/tb3/build/turtlebot3_cartographer
+[1.474s] -- Install configuration: ""
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.475s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.476s] -- Installing: /home/smartlab/tb3/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.478s] Invoked command in '/home/smartlab/tb3/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --install /home/smartlab/tb3/build/turtlebot3_cartographer

@@ -1,0 +1,50 @@
+[0.498s] Invoking command in '/home/smartlab/tb3/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake /home/smartlab/tb3/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/smartlab/tb3/install/turtlebot3_navigation2
+[0.755s] -- The C compiler identification is GNU 11.4.0
+[0.755s] -- The CXX compiler identification is GNU 11.4.0
+[0.755s] -- Detecting C compiler ABI info
+[0.755s] -- Detecting C compiler ABI info - done
+[0.755s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.755s] -- Detecting C compile features
+[0.755s] -- Detecting C compile features - done
+[0.755s] -- Detecting CXX compiler ABI info
+[0.755s] -- Detecting CXX compiler ABI info - done
+[0.755s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.755s] -- Detecting CXX compile features
+[0.755s] -- Detecting CXX compile features - done
+[0.755s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.828s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.307s] -- Configuring done
+[1.309s] -- Generating done
+[1.309s] -- Build files have been written to: /home/smartlab/tb3/build/turtlebot3_navigation2
+[1.314s] Invoked command in '/home/smartlab/tb3/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake /home/smartlab/tb3/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/smartlab/tb3/install/turtlebot3_navigation2
+[1.315s] Invoking command in '/home/smartlab/tb3/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --build /home/smartlab/tb3/build/turtlebot3_navigation2 -- -j16 -l16
+[1.336s] Invoked command in '/home/smartlab/tb3/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --build /home/smartlab/tb3/build/turtlebot3_navigation2 -- -j16 -l16
+[1.354s] Invoking command in '/home/smartlab/tb3/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --install /home/smartlab/tb3/build/turtlebot3_navigation2
+[1.358s] -- Install configuration: ""
+[1.358s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[1.359s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[1.360s] -- Installing: /home/smartlab/tb3/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[1.574s] Invoked command in '/home/smartlab/tb3/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/smartlab/turtlebot3_ws/install/turtlebot3_teleop:/home/smartlab/turtlebot3_ws/install/turtlebot3_example:/home/smartlab/turtlebot3_ws/install/turtlebot3_dqn:/home/smartlab/wafflepi/install/wafflepi_dqn:/opt/ros/humble /usr/bin/cmake --install /home/smartlab/tb3/build/turtlebot3_navigation2
